@@ -1,1 +1,37 @@
-theme: jekyll-theme-cayman
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              http://haensi.github.io
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          ''
+
+title: Reading. Teaching. Thinking.
+
+#Disqus comment
+comments: false
+
+#GA
+
+google_analytics: UA-129643810-1
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  In a complex world, we need wisdom to steer, thrive and live a meaningful life.
+
+# Fallback image and color if not overwritten for tag or post
+#image:            ./public/way.jpg
+color:            '#268bd2'
+
+# Build settings
+markdown: kramdown
+# theme: minima
+#plugins:
+#  - jekyll-feed
+
+#permalink: /:categories/:year/:month/:day/:title:output_ext
+
+author:
+  name:           'Hans Ramsl'
+  github:         haensi
