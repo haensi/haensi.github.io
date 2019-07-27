@@ -17,7 +17,7 @@ The good book needs to be digested like a good steak. It takes time to prepare i
 Social media can be compared to fast food:
 It is tasty, it is easy to consume, and we never get enough. At the same time, we feel unfulfilled, and a longing for the real stuff remains.
 
-It goes without asking that an athlete who strive for success has to focus on her diet, eating high-quality food and disciplining herself to enough work out and training.
+It goes without asking that an athlete who strives for success has to focus on her diet, eating high-quality food and disciplining herself to enough work out and training.
 
 If you want to be successful in the long run, you better get started and develop a healthy reading habit.
 
