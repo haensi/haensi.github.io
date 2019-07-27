@@ -2,7 +2,7 @@
 layout: post
 title:  "Reading is Eating"
 date:   2019-07-27 21:09:05 +0100
-categories: words, reading
+categories: reading
 ---
 
 
